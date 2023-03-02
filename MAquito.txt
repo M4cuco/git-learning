@@ -1,0 +1,49 @@
+cert-manager			 	 OK	Cluster IP	10.91.3.94	
+cert-manager-webhook	 	 OK	Cluster IP	10.91.11.94	
+dashsuporte	 			 	 OK	Cluster IP	10.91.7.222	
+dashsuporte-ws			 	 OK	Cluster IP	10.91.8.3	
+eventos	 				 	 OK	Cluster IP	10.91.6.84	
+external-auth-server	 	 OK	Cluster IP	10.91.14.223	
+grafana	 				 	 OK	Cluster IP	10.91.14.89	
+ldap-senha	 			 	 OK	Cluster IP	10.91.11.110	
+makito-mysql	 		 	 OK	Cluster IP	None	
+makito-postgresql	 	 	 OK	Cluster IP	10.91.5.126	
+makito-postgresql	 	 	 OK	Cluster IP	10.91.9.6	
+makito-postgresql-headless	 OK	Cluster IP	None	
+makito-postgresql-headless	 OK	Cluster IP	None	
+makito-postgresql-metrics	 OK	Cluster IP	10.91.3.254	
+makito-postgresql-metrics	 OK	Cluster IP	10.91.2.75	
+makito-redis-master			 OK	Cluster IP	10.91.0.250	
+makito-redis-metrics		 OK	Cluster IP	10.91.12.112	
+makitonfe					 OK	Cluster IP	10.91.6.69	
+makitonfe	 				 OK	Cluster IP	10.91.8.108	
+makitonfe-web				 OK	Cluster IP	10.91.9.197	
+makitoservidorlinux-kube	 OK	Cluster IP	10.91.8.246	
+makitoweb					 OK	Cluster IP	10.91.4.128	
+minio						 OK	Cluster IP	10.91.15.53	
+mongo-express				 OK	Cluster IP	10.91.15.63	
+mongo-test-nodejs	 		 OK	Cluster IP	10.91.0.5	
+mongo-test-php	 			 OK	Cluster IP	10.91.14.145	
+openldap					 OK	Cluster IP	10.91.7.182	
+openldap-web				 OK	Cluster IP	10.91.8.101	
+pg-teste	 				 OK	Cluster IP	10.91.13.30	
+pgadmin		 				 OK	Cluster IP	10.91.12.48	
+prometheus-node-exporter	 OK	Cluster IP	None	
+prometheus-server	         OK	Cluster IP	10.91.15.43	
+redis-commander	             OK	Cluster IP	10.91.2.168	
+traefik						 OK	External load balancer	35.247.193.242:80 	
+														35.247.193.242:443 	
+														35.247.193.242:5432 	
+														35.247.193.242:636 	
+														35.247.193.242:389 	
+														35.247.193.242:3322 	
+traefik-webui				 OK	Cluster IP	10.91.6.166	
+vendizap	 				 OK	Cluster IP	10.91.14.12	
+vendizap	 				 OK	Cluster IP	10.91.4.85	
+vendizap-dominios	 		 OK	Cluster IP	10.91.15.144	
+vendizap-dw             	 OK	Cluster IP	10.91.11.228	
+vendizap-site	 			 OK	Cluster IP	10.91.6.191	
+vendizap-site-files	 		 OK	Cluster IP	10.91.9.136	
+vendizap-ws	 				 OK	Cluster IP	10.91.0.181	
+vendizap-ws	 				 OK	Cluster IP	10.91.11.170	
+wsmakito	 				 OK	Cluster IP	10.91.14.128	
